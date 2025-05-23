@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://i.imgur.com/UOU0MXR.png" width="800 alt="DietG-Drive logo" />
+  <img src="https://i.imgur.com/UOU0MXR.png" width="800 alt="Diet-GDrive logo" />
 </p>
 
-# DietG-Drive
+# Diet-GDrive
 
-> **Keep your Google Drive healthy with DietG-Drive—automatically trim the digital fat and keep only what matters!**
+> **Keep your Google Drive healthy with Diet-GDrive—automatically trim the digital fat and keep only what matters!**
 
-**DietG-Drive** is a smart, scriptable tool to keep your Google Drive lean and clutter-free. Delete old files, keep only your most important items, and automate cloud organization in just a few clicks.
+**Diet-GDrive** is a smart, scriptable tool to keep your Google Drive lean and clutter-free. Delete old files, keep only your most important items, and automate cloud organization in just a few clicks.
 No more wasted storage. No more manual sorting. Just a healthier, lighter Drive.
 
 ---
@@ -30,8 +30,8 @@ No more wasted storage. No more manual sorting. Just a healthier, lighter Drive.
 1. **Clone this repository** (or download the script file):
 
    ```bash
-   git clone https://github.com/ChocoJaYY/DietG-Drive.git
-   cd DietG-Drive
+   git clone https://github.com/ChocoJaYY/Diet-GDrive.git
+   cd Diet-GDrive
    ```
 
 2. **Install required dependencies**:
@@ -205,7 +205,7 @@ Use `--logfile mylog.txt` to log all actions, errors, and summaries to a file.
 ## Contributing
 
 PRs and suggestions are welcome!
-Want a new feature or better regex samples? [Open an issue!](https://github.com/ChocoJaYY/DietG-Drive/issues)
+Want a new feature or better regex samples? [Open an issue!](https://github.com/ChocoJaYY/Diet-GDrive/issues)
 
 ---
 
