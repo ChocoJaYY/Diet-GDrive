@@ -30,7 +30,7 @@ No more wasted storage. No more manual sorting. Just a healthier, lighter Drive.
 1. **Clone this repository** (or download the script file):
 
    ```bash
-   git clone https://github.com/ChocoJaYY/DietG-Drive.git
+   git clone https://github.com/ChocoJaYY/Diet-GDrive.git
    cd Diet-GDrive
    ```
 
@@ -205,7 +205,7 @@ Use `--logfile mylog.txt` to log all actions, errors, and summaries to a file.
 ## Contributing
 
 PRs and suggestions are welcome!
-Want a new feature or better regex samples? [Open an issue!](https://github.com/ChocoJaYY/DietG-Drive/issues)
+Want a new feature or better regex samples? [Open an issue!](https://github.com/ChocoJaYY/Diet-GDrive/issues)
 
 ---
 
